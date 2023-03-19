@@ -1,0 +1,3 @@
+Panteleev 10 9 8 7 6
+Gordeev 1 2 3 4 5
+Kostorev 3 2 9 8 2
